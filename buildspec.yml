@@ -12,4 +12,4 @@ artifacts:
   files:
     - '**/*'
   discard-paths: no
-  base-directory: dist/angular-devops
+  base-directory: dist/examfront
